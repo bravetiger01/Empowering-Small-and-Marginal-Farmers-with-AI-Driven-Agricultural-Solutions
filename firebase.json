@@ -1,1 +1,30 @@
-{"flutter":{"platforms":{"android":{"default":{"projectId":"solutionchallenge-b3898","appId":"1:1014160948784:android:067827db98804c653077f5","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"solutionchallenge-b3898","configurations":{"android":"1:1014160948784:android:067827db98804c653077f5","ios":"1:1014160948784:ios:b8e561054ec03a703077f5"}}}}}}
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "solutionchallenge-b3898",
+          "appId": "1:1014160948784:android:067827db98804c653077f5",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "solutionchallenge-b3898",
+          "configurations": {
+            "android": "1:1014160948784:android:067827db98804c653077f5",
+            "ios": "1:1014160948784:ios:b8e561054ec03a703077f5"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
