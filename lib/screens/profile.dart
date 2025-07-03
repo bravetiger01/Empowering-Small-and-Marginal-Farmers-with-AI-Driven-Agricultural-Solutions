@@ -74,7 +74,7 @@ class _ProfileTabState extends State<ProfileTab> {
       backgroundColor: Colors.green.shade900,
       foregroundColor: Colors.white,
     ),
-    cardTheme: CardTheme(
+    cardTheme: CardThemeData(
       elevation: 4,
       color: Colors.grey[850],
       shape: RoundedRectangleBorder(
