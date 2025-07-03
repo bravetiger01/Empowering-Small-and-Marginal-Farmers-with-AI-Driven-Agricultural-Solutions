@@ -57,7 +57,7 @@ class _ProfileTabState extends State<ProfileTab> {
       backgroundColor: Color.fromARGB(255, 99, 194, 104),
       foregroundColor: Colors.white,
     ),
-    cardTheme: CardTheme(
+    cardTheme: CardThemeData(
       elevation: 4,
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(15),
